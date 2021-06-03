@@ -1,0 +1,554 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Three severall and different characters of the Cardinall Duke of Plessis Richelieu; the late potent manager of the French monarchie, and well-nigh grand arbitrator of the rest of Europe.</title>
+         </titleStmt>
+         <extent>Approx. 34 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94333</idno><idno type="EEBO-CITATION">99871159</idno>
+  <idno type="VID">159060</idno>
+  <idno type="EEBO-PROQUEST">2248511701</idno>
+  
+            <idno type="STC">Wing T1116</idno>
+            <idno type="STC">Thomason E249_28</idno>
+            <idno type="STC">ESTC R212553</idno>
+            <idno type="PROQUEST">99871159</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99871159e"/>
+            <note>(EEBO-TCP ; phase 2, no. A94333)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 159060)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 43:E249[28])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Three severall and different characters of the Cardinall Duke of Plessis Richelieu; the late potent manager of the French monarchie, and well-nigh grand arbitrator of the rest of Europe.</title>
+               </titleStmt>
+               <extent>[2], 13, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Francis Constable.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>An. Dom. 1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Parallel Latin and English texts.</note>
+                  <note>Annotation on Thomason copy: "July ye 22nd".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Richelieu, Armand Jean du Plessis, --  duc de, 1585-1642 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:159060:1"/>
+            <p>Three severall and different CHARACTERS Of the Cardinall Duke of Plessis RICHELIEU; The late potent Manager of the French Monarchie, and well-nigh Grand Arbitrator of the rest of EUROPE.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for FRANCIS CONSTABLE. <hi>An. Dom.</hi> 1643.</p>
+         </div>
+         <div type="translator_to_the_reader">
+            <pb facs="tcp:159060:2"/>
+            <p>ALL the three Characters are thus done into English, as well for the pleasure of the meerly such, as besides for those, which though they understand the Latine passably, and in an ordinary degree, yet will very hardly ever bee brought to set themselves so on the Rack, as to reach up to the quicknesse and smartnesse of these Elogies, nor indure and bear out the severall wrastlings for the sense, as is generally requisite in composures of this nature; yea, the Tran<g ref="char:EOLhyphen"/>slator himself, who hath hitherto been so bold to undertake this task, is yet so ingenuous &amp; modest to confesse, that haply himself may have met with a slough, &amp; stuck therin too; especially in the two last, which he never met with in Print; and where the slips and other inadver<g ref="char:EOLhyphen"/>tencies of Transcribers have made the way oft so founderous, as hardly to be rectified otherwise than by pure Divination; the use of which libertie he was not willing to allow himself, protesting therefore further, that he hath not placed his English thus check by jowl, and column wise, by the Latine, to vaunt, by comparison, of the felicitie of the Translation, (for why! alas, the ablest tongue will hardly ever overtake, at all turns too, the severall beauties of another, though of a far inferiour classis, circumscrib'd besides in the narrow limits of such a like version:) And he confesses to boot, his own disabilitie to ex<g ref="char:EOLhyphen"/>presse fully, what our tongue yet might and could reach up to; but what has been so done, hath been onely, that the Reader, at one view and without further trouble or diversion either of eyes or minde, might please himself in the elegance and exquisitenesse of the Origi<g ref="char:EOLhyphen"/>nall Latine, for what he shall rest unsatisfied in the Translation.</p>
+         </div>
+      </front>
+      <body>
+         <div xml:lang="lat" type="version">
+            <pb n="1" facs="tcp:159060:2"/>
+            <head>
+               <hi>Joannis Armandi Plessaei Richelii, S.R.E.</hi> Car<g ref="char:EOLhyphen"/>dinalis Eminentissimi, <hi>Franciae</hi> Duci poten<g ref="char:EOLhyphen"/>tissimi, &amp; Regis Chri<g ref="char:EOLhyphen"/>stianissimi <hi>Lud:</hi> XIII Ministri famosissimi vitae Synopsis inscri<g ref="char:EOLhyphen"/>benda Tumulo.</head>
+            <p>PRimum quod à te postulo Via<g ref="char:EOLhyphen"/>tor, est ut Deum opt: max: lau<g ref="char:EOLhyphen"/>des, quod haec in <hi>Gallia</hi> se<g ref="char:EOLhyphen"/>curus leges.</p>
+            <p>Deinde miraberis, tantillo spacio claudi mortuum, quem terra non ca<g ref="char:EOLhyphen"/>piebat vivum.</p>
+            <p>Illam ubi commovit, Coelum movere voluit is, qui hoc Symbolum sibi arroga<g ref="char:EOLhyphen"/>vit, <hi>Mens Sydera volvit.</hi>
+            </p>
+            <p>Vt intelligas, qualis haec intelligen<g ref="char:EOLhyphen"/>tiafuerit; industria fuit Sagaci, sed in<g ref="char:EOLhyphen"/>quieta; Pacis Publicae, &amp; Propriae Tranquillitatis Hostis.</p>
+            <p>In magno, quod plurimi suspexerunt ingenio, magnam pauci familiares de<g ref="char:EOLhyphen"/>prehenderunt
+<pb n="2" facs="tcp:159060:3"/>mixturam dementiae.</p>
+            <p>Animum ejus laedebant omnia, sana<g ref="char:EOLhyphen"/>bat nihil.</p>
+            <p>Potentissimi Regis, non tam bene<g ref="char:EOLhyphen"/>volentia, quàm authoritate diutius s<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>etit, rerum exitu, non Consilio<g ref="char:EOLhyphen"/>rum prudentia felix: Dei solius in<g ref="char:EOLhyphen"/>felix indignatione, cum turpibus mo bis perpetuo conflictatus, locum ignoravit felicitatis, quam sua &amp; aliorum infelicitate quaerebat; nun<g ref="char:EOLhyphen"/>quam sibi visus beatus, ut nec iis probus, qui beatum nuncupabant.</p>
+            <p>Vtrique bili, id est vitae Carnisi<g ref="char:EOLhyphen"/>cibus, obnoxius; flavae ignes, &amp; atrae suligines est continuo passus: sie venenum quod in aliorum perni<g ref="char:EOLhyphen"/>ciem effudit, non sine sua conti<g ref="char:EOLhyphen"/>nuit.</p>
+            <p>Supra omnes mortales ambitione la<g ref="char:EOLhyphen"/>boravit, supra plurimos avaritia: Re<g ref="char:EOLhyphen"/>giae pecuniae prodigus, alienae parcus.</p>
+            <p>Crudelis offensus, ubi effenderat, crudetior extitit.</p>
+            <p>Reginae-Matris benefici<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s ditatus, curis promotus, &amp; potestate poten<g ref="char:EOLhyphen"/>tior factus, illam gratiâ Regis, Li<g ref="char:EOLhyphen"/>bertate, Bonis, <hi>Gallia,</hi> ac demum extorrem <hi>Coloniae</hi> vita privavit: ne mortuae parceret, supremas ejus voluntates rescindi, &amp; insepultum Cadaver per quinque menses (post quos ipse extinctus est) in Cubiculo re<g ref="char:EOLhyphen"/>linqui voluit.</p>
+            <p>Fratris-Regis dignitatem vio<g ref="char:EOLhyphen"/>lavit, &amp; personam opprimere stu<g ref="char:EOLhyphen"/>d<gap reason="illegible: faint" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t.</p>
+            <p>Non solum à Matre Filium, à Pra<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re Fratrem, sed ab Vxore Vi<g ref="char:EOLhyphen"/>r<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m altquando avertit: <hi>Marilia<g ref="char:EOLhyphen"/>cum</hi>
+               <pb n="3" facs="tcp:159060:3"/>summa injuria, <hi>Montmoranti<g ref="char:EOLhyphen"/>um</hi> summo jure, <hi>Cincmartium</hi> jure cum injuria, <hi>Thuanum</hi> vel jure, vel injuria Capite plecti voluit.</p>
+            <p>Magnates aliquot carcere perpe<g ref="char:EOLhyphen"/>tuo, plures exilio damnavit, pluri<g ref="char:EOLhyphen"/>mos ab Aula removit innumeros pro<g ref="char:EOLhyphen"/>scripsit, ne ipsius Consiliis obessent; nec unquam mitis <hi>Gallia</hi> tam frequentia supplicia vidit.</p>
+            <p>Magni Regis, quem magno stu<g ref="char:EOLhyphen"/>dio decepit, nixus potentiâ, &amp; foecundi Regni opibus adjutus, in<g ref="char:EOLhyphen"/>finitas sagittas perdidit, ut scopum praecipuum, à quo aberravit, at<g ref="char:EOLhyphen"/>tingeret.</p>
+            <p>Aliquos exitus secundos insanis Conatibus <gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>epererunt mentis actio vel agitatio continua, projecta &amp; omnia tentans audacia, &amp; rigida severitas.</p>
+            <p>Brevi evertendus, si inter hostes externos, aliquos cautiores, &amp; in<g ref="char:EOLhyphen"/>ter aversos <hi>Gallos</hi> fere omnes, vel adversarium unum invenisset.</p>
+            <p>Multùm illi favit, quod cum vix quis noverit, veliis qui noverāt, crediderit.</p>
+            <p>Adeò fortunatus, ut qui illi infensi erant Nobiles, &amp; Milites, pro illius gloria suum, &amp; alienum funderent sanguinem, dum ille Regio jungeret suum.</p>
+            <p>In quo Consilio <hi>Sejanus</hi> periit, et ipse perierat, ni <hi>Suessionensem</hi> regium Prin ipem (proh<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tor!) sustu<g ref="char:EOLhyphen"/>lisset.</p>
+            <p>Tam noxiae potestatis vestigia, in<g ref="char:EOLhyphen"/>tegro saeculo, <hi>Germania, Hispania,
+<pb n="4" facs="tcp:159060:4"/>Italia, Belgium,</hi> sedmaximè <hi>Gallia</hi> vix delebunt.</p>
+            <p>Et Civium et Vicinorum miseriis voluptatem captans; ut istis capillos velleret, illorum viscera laniavit.</p>
+            <p>Nec Regis sui sacrae valetudini ali<g ref="char:EOLhyphen"/>quid induisit, illam agitavit, dum su<g ref="char:EOLhyphen"/>am exhausit curis et vario animi pa<g ref="char:EOLhyphen"/>themate.</p>
+            <p>Illi primò Divina Nemesis Bra<g ref="char:EOLhyphen"/>chium corrupit, quod contra Coelum tetenderat; mox abstulit usum dexterae, quae bellis ultro illatis subscripserat; iliud octo ante obitum mensibus compu<g ref="char:EOLhyphen"/>truit, unde haec exaruit.</p>
+            <p>Quod dolendum, qui Deum ita vindicem sensit, non satis agnovit.</p>
+            <p>Id ex eo conjice, quod furorem in hostes privatos ardentius exercuit.</p>
+            <p>Quod, imminente morte, politica magis prudentiâ, quàm Christiana usus pietate, plus suos Regi, quam se Deo commendavit.</p>
+            <p>Quod, paucis diebus ante vitae tragicae Catastrophen, excogitatam àse Fabulam, quam <hi>Europam triumpha<g ref="char:EOLhyphen"/>tam</hi> vocavit, exhiberi Regia magni<g ref="char:EOLhyphen"/>ficentia voluit, non tamen spectare potuit.</p>
+            <p>Quod Ecclesiam afflixit Cardina<g ref="char:EOLhyphen"/>lis, sanguinem effudit Sacerdos, nul<g ref="char:EOLhyphen"/>las injurias condonavit Christianus, nec homo mortalem se esse meminerit, etiam cum ebullientes è multis ulce<g ref="char:EOLhyphen"/>ribus vermes admonerent, quàm fragi<g ref="char:EOLhyphen"/>li, &amp; quam foetidae mortalitati obnoxi<g ref="char:EOLhyphen"/>us esset.</p>
+            <pb n="5" facs="tcp:159060:4"/>
+            <p> Vbi omnibus viis etiam impiis, per <gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>odecim annos, ad privatum, dis<g ref="char:EOLhyphen"/>pendio publici, cucurrit finem, ad communem hominum, placida in speci<g ref="char:EOLhyphen"/>em morte, sed multis, quos praemisit, tar<g ref="char:EOLhyphen"/>diore, tandem pervenit.</p>
+            <p>Fato functus est <hi>Lutetiae,</hi> ubi erat natus ante annos LVII cum tribus mensibus.</p>
+            <p>
+               <hi>Galliam</hi> &amp; domum deserens, utram<g ref="char:EOLhyphen"/>que incendere velle visus est; illam, ex<g ref="char:EOLhyphen"/>toria in Regis fratrem Declaratione; istam, ad foeminae placitum condito te<g ref="char:EOLhyphen"/>s<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>amento.</p>
+            <p>Caeterum nec unquam Dives <hi>Gal<g ref="char:EOLhyphen"/>lia</hi> tantum homini contulit, nec alium, natura satis impatiens tam diu pertu<g ref="char:EOLhyphen"/>lit, nec, pacis amans, mortuum ullum tam hilariter extulit.</p>
+            <p>Haec palàm assero, quae tu clàm su<g ref="char:EOLhyphen"/>spicatus es, sapiens Viator.</p>
+            <p>Si quem adhuc dubitantem invenis, roga, ne deceptis, vel corruptis adulato<g ref="char:EOLhyphen"/>ribus credat, sed mihi vera ex intimis sincerisque promenti.</p>
+            <p>Omnes verò mortales, ut sibi persua<g ref="char:EOLhyphen"/>deant, velim, plus apud Deum valere justitiam vel minimam, quam potesta<g ref="char:EOLhyphen"/>tem maximam: nec aestimandam latè diffusam famam, sed bonam.</p>
+            <p>Multa turbare, non esse multum agere; turbata componere, plus esse; ne turbentur, impedire, plurimum esse.</p>
+            <p>Vulgus felicia scelera pro virtuti<g ref="char:EOLhyphen"/>bus ducit, tu contra nihil infelicius felici scelere cogita.</p>
+            <p>Fraudum egregius Artifex <hi>Riche<g ref="char:EOLhyphen"/>lius,</hi> plurimos ad momentum decepit, fortè seipsum in perpetuum.</p>
+            <p>Heu! universa, quae miscuit, non
+<pb n="6" facs="tcp:159060:5"/>rediget in ordinem; qui pacem, quae cum illius ingenio turbulento non con<g ref="char:EOLhyphen"/>veniebat, etiam fortunae suae non con<g ref="char:EOLhyphen"/>venire credebat; inde tot mala, quae Christianum o<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>be<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap> à quindecim an<g ref="char:EOLhyphen"/>nis, afflixerunt.</p>
+            <p>Ora, ne sit Deus vindex aeternus in authorem, qui magna misericordia, mul<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>isque miserationibus, inmagnis multisque criminibus, indigebat</p>
+            <p>Tu, hospes Christiane seriò perpende; quam nihil sit, quic quid momento prae<g ref="char:EOLhyphen"/>terit: Nemo ex istis quos purpuratos vides ex hoc ipso felix est, non magis quam ex illis, quibus Sceptrum &amp; Chlamidem in scena fabulae assignant: cum praesenti populo elati incesserunt &amp; cothurnati simul exierunt, excalce<g ref="char:EOLhyphen"/>antur, &amp; ad staturam suam redeunt: <hi>Seneca.</hi>
+            </p>
+            <p>Adde, parvus Cinis modo est, qui magnus ignis fuit: teter fumus nunc est, qui nuper coruscans splendor omni<g ref="char:EOLhyphen"/>um oculos perstringebat?</p>
+            <p>Vtinam non et fax sibi in alio sit orbe, qui in hoc <hi>Europae</hi> fuit: Haec jam pacem, extincto bellorum fomite, sperat.</p>
+            <p>Hortarer te, Viator, ut tanto pacis, etiam suae, dum viveret, hosti pacem precareris; nisi vererer, ne illi mole<g ref="char:EOLhyphen"/>flus esses, rem quam maxime oderat, illi apprecando: precare tamen, qui juberis inimicos diligere: si ad illum non per<g ref="char:EOLhyphen"/>venerit pa, ad te revertetur: sic impe<g ref="char:EOLhyphen"/>rat Christus, in quo vive pacificus, ut in illo placide conquiescas.</p>
+            <p>
+               <hi>Interim vale.</hi>
+            </p>
+         </div>
+         <div xml:lang="eng" type="version">
+            <pb n="1" facs="tcp:159060:2"/>
+            <head>A Synopsis of the life of <hi>Armand Iean</hi> of <hi>Plessis Richelieu,</hi> most eminent Cardinal of the sacred <hi>Roman</hi> Church, a most Potent Duke of <hi>France,</hi> and the most famous Minister of the most Christian King <hi>Lewes</hi> XIII to be in scribed on his Tombe.</head>
+            <p>THe first thing I shall require, O Passen<g ref="char:EOLhyphen"/>ger, of thee, is that thou praise the great God, that thou shalt reade these things in <hi>France</hi> now safely.</p>
+            <p>Then shalt thou admire, that he is shut up now dead in so small a space, whom living the whole earth could not contain.</p>
+            <p>Which when he moved, the heavens too he would, having arrogated to himselfe this Motto, <hi>My minde doth rowle the Starres.</hi>
+            </p>
+            <p>That thou mayest understand, what an In<g ref="char:EOLhyphen"/>telligence this was; he was of an industry sagacious, but unquiet; an Enemy of the Publike Peace, and of his own Tranquillitie.</p>
+            <p>In that great Braine, which many so ad<g ref="char:EOLhyphen"/>mired, some few Familiars have observed a
+<pb n="2" facs="tcp:159060:3"/>great mixture of madnesse.</p>
+            <p>All things troubled his minde, nothing asswag'd it.</p>
+            <p>He stood so long, not so much by the love, as by the Authority of the most Potent King; happy by the Event of things, not by the wis<g ref="char:EOLhyphen"/>dom of his Counsels: unhappy in the indig<g ref="char:EOLhyphen"/>nation of God onely, being perpetually harri<g ref="char:EOLhyphen"/>ed with foul diseases, and so knew no point of happinesse, which he alwayes sought as well in his own, as in others unhappinesse; never seeming to himself happy, nor honest to such as called him happy.</p>
+            <p>To either of the Chollers, the Hangmen of mans life, was he obnoxious; suffering conti<g ref="char:EOLhyphen"/>nually the fire of the one, and the fumes of the other: so, that Venome, which he spit to the mischiefe of others, was contain'd in in himselfe not without his owne.</p>
+            <p>He was ambitious above all men, cove<g ref="char:EOLhyphen"/>tous above most men; prodigall of the Kings money, and sparing of his owne.</p>
+            <p>Was he offended, he was cruell; did he of<g ref="char:EOLhyphen"/>fend, then was he much more cruell.</p>
+            <p>Being enriched by the Queen-Mothers be<g ref="char:EOLhyphen"/>nefits, promoted by her care, and made po<g ref="char:EOLhyphen"/>tent by her power, he deprived her of the Kings Grace, her Libertie, Goods, and <hi>France,</hi> and at last of life at <hi>Cullen</hi> in that her exile: and, not to spare her now dead, he in<g ref="char:EOLhyphen"/>fringed her Will, and caused her dead Car<g ref="char:EOLhyphen"/>kase full five moneths (after which died he himselfe) to remaine unburied in her Chamber.</p>
+            <p>The dignity of the Kings Brother did he violate, and sought even to oppresse his very Person.</p>
+            <p>Nor did he onely avert the Mother from the Sonne, and the Brother from the Bro<g ref="char:EOLhyphen"/>ther, but even the Husband from the
+<pb n="3" facs="tcp:159060:3"/>wife. <hi>Marillac</hi> he caused to be beheaded by extream wrong, <hi>Montmorency</hi> by ex<g ref="char:EOLhyphen"/>tream right, <hi>Cinemart</hi> by right joyn'd with wrong, <hi>de Thou</hi> whether by right or wrong.</p>
+            <p>Some of the Nobles he condemn'd to per<g ref="char:EOLhyphen"/>petuall imprisonment, more to Banishment, most he exil'd from Court, an innumerable number he proscrib'd, lest they might scote his Counsels; nor had the mildnesse of <hi>France</hi> ever seen so frequent punishments.</p>
+            <p>Bolstered with the Power of the great King, whom with great industry he had de<g ref="char:EOLhyphen"/>ceiv'd, and helpt with the riches of so fer<g ref="char:EOLhyphen"/>tile a Kingdome, he lost many Arrows, to the intent to hit the maine Mark at last, having so often mist.</p>
+            <p>Some prosperous successes with those fu<g ref="char:EOLhyphen"/>rious endeavours, a continuall action and agi<g ref="char:EOLhyphen"/>tation of the minde, with a courage perpetu<g ref="char:EOLhyphen"/>ally bent, and trying all things, and a rigid severitie, did beget.</p>
+            <p>How easily had he fallen, if amongst for<g ref="char:EOLhyphen"/>raigne foes he had found some more cauti<g ref="char:EOLhyphen"/>ous, or amongst his owne <hi>French</hi> almost all estranged from him, he had met even one ad<g ref="char:EOLhyphen"/>versary.</p>
+            <p>It stood much for him, that scarce any one knew him, or would beleeve such as did.</p>
+            <p>So fortunate was he, that the displeased No<g ref="char:EOLhyphen"/>bles, and Souldiers for his glory shed their own and others blood, whil'st he joyn'd his with the Kings.</p>
+            <p>In which Counsell <hi>Sejanus</hi> perisht, and so had he, had he not first ta<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e away (oh lamen<g ref="char:EOLhyphen"/>ble!) <hi>Soissons</hi> a Prince of the blood.</p>
+            <p>The footsteps and prints of so noxious a Power, <hi>Germany, Spaine, Italy,</hi> the <hi>Low-Coun<g ref="char:EOLhyphen"/>tiies,</hi>
+               <pb n="4" facs="tcp:159060:4"/>but chiefly <hi>France,</hi> will hardly blot out in an age.</p>
+            <p>Seeking pleasure in the miseries of his own Countreymen, and of the neighbouring Na<g ref="char:EOLhyphen"/>tions, he tore the very Bowels of those, that he might pluck these by the haire.</p>
+            <p>Nor did he indulge ought to the sacred health of his owne King, which he shook, whil'st he exhausted his owne with cares and various perturbations of the minde.</p>
+            <p>By the Divine <hi>Nemesis</hi> was that Arme first corrupted, which he had stretched out against Heaven; next was the use of his right hand 'tane from him, which had subscrib'd to Wars, out of gayetie of heart: that putrified eight moneths afore his death, whence this wi<g ref="char:EOLhyphen"/>ther'd and pin'd away.</p>
+            <p>Which is to be lamented, that he which felt so revenging a God, should not sufficient<g ref="char:EOLhyphen"/>ly understand it.</p>
+            <p>Gather it from this, that he exercised his fury upon his private enemies more ardently.</p>
+            <p>That, on the point of death, following ra<g ref="char:EOLhyphen"/>ther a politicall wisedome, then a Christian pietie, he more commended his kindred, and friends to the King than himselfe to God.</p>
+            <p>That a few dayes afore the Catastrophe of his tragicall life, he would have had acted with Kingly magnificence a Play of his own invention, which he call'd <hi>Europe conquer'd,</hi> but liv'd not to see it play'd.</p>
+            <p>That being a Cardinall he afflicted the Church, being a Priest he shed blood, being a Christian he never forgave injuries, being a man he never remembred he was mortall, no not when the wormes sewing out of his ma<g ref="char:EOLhyphen"/>ny Vlcers warn'd him to what a fraile, and foe<g ref="char:EOLhyphen"/>tide mortalitie he was obnoxious.</p>
+            <pb n="5" facs="tcp:159060:4"/>
+            <p> When he had by all, even impious means, for eighteen years, run to his private ends, at the cost of the publike, he arriv'd at last to the common end of mankinde, with a gentle death, to shew, but too slow to many, whom he had sent afore.</p>
+            <p>At <hi>Paris</hi> he dyed, where he was borne LVII yeares and three moneths afore.</p>
+            <p>Leaving <hi>France,</hi> and his owne house, hee seem'd to desire to set fire on both; that, by extorting a Declaration against the Kings Brother; this, by making his Will at the plea<g ref="char:EOLhyphen"/>sure of a woman.</p>
+            <p>But never did rich <hi>France</hi> conferre so much to any man, nor, being naturally prettie impa<g ref="char:EOLhyphen"/>tient, everendur'd any man so long; nor, lo<g ref="char:EOLhyphen"/>ving peace, ever carried any man to the Grave so joyfully.</p>
+            <p>This affirme I openly, which thou, O wise Passenger, hast privily suspected.</p>
+            <p>Find'st thou any man doubting, entreat him not to beleeve men deceived, or flatte<g ref="char:EOLhyphen"/>rers corrupted, but me, that draw from the in<g ref="char:EOLhyphen"/>time and sincere, truths.</p>
+            <p>But I would have all men beleeve, that the least justice is more prevalent with God, then the greatest power: and that a good fame is more estimable, than a large.</p>
+            <p>That to embroyle many things is not to do much, but to compose and settle disorders is more; to prevent them, is most of all.</p>
+            <p>The Vulgar deem happy Villanies Vertues, but esteem thou contrariwise, nothing more unhappy than these happy outrages.</p>
+            <p>
+               <hi>Richilieu</hi> an egregious Artisan of deceits, deceived many for the while, himself haply for ever.</p>
+            <p>Alas! never can he reduce into order, what
+<pb n="6" facs="tcp:159060:5"/>he hath shuffl'd together; who thought Peace, because it agreed not with his turbu<g ref="char:EOLhyphen"/>lent spirit, not to agree neither with his for<g ref="char:EOLhyphen"/>tune: hence flow'd all these evills, which have, for fifteen years, afflicted the Christian world.</p>
+            <p>Pray, that God revenge not eternally these things on the Author, who, for so great and so many crimes, needs as great mercy, and as many Compassions.</p>
+            <p>Thou Christian Stranger, weigh this seri<g ref="char:EOLhyphen"/>ously; what a nothing 'tis, whatsoever passes away in a moment: Not one of those which thou seest cloth'd in Purple is in that happy, no more than such, who in Stage-Playes are adorn'd with Robes, and Scepters, they strutt out proudly before the People in their Cho<g ref="char:EOLhyphen"/>pius; but as soon as they are gone off the Stage, they are unshod, and return to their an<g ref="char:EOLhyphen"/>cient stature. <hi>Seneca.</hi>
+            </p>
+            <p>Adde this, what a little Ashes it is, that was so great a Fire; what a stinking smoak that with so bright a splendour dazzled the eyes of all men?</p>
+            <p>May he not be a fire-brand to himselfe in the other world, as he was in this of <hi>Eu<g ref="char:EOLhyphen"/>rope;</hi> which now expects Peace, the Incendia<g ref="char:EOLhyphen"/>ry of these wars being extinct.</p>
+            <p>I would exhort thee, O Passenger, to be<g ref="char:EOLhyphen"/>speak Peace, even to this enemy of Peace, yea, and of that of his own; were I not afraid thou might'st be troublesome to him, by wishing him that, which he most abhorr'd: doe't though howsoever, being thou art com<g ref="char:EOLhyphen"/>manded to love thine enemies: if that Peace reach him not, it will sure returne to thee: so Christ commands, in whom live peace<g ref="char:EOLhyphen"/>ably, that thou mayest, at length, in him rest in Peace.</p>
+            <p>
+               <hi>In the mean space fare thou well.</hi>
+            </p>
+         </div>
+         <div type="translator_to_the_reader">
+            <pb n="7" facs="tcp:159060:5"/>
+            <p>REader, the Translatour disavows himself a Partisan, or any the least way interressed in either of the deadly fewds and factions, <hi>French</hi> or <hi>Spanish,</hi> and so has no so homely a conceit of this great man, and much more great brain, as hath this <hi>Spanyard</hi> or <hi>Dutchman</hi> rather of the <hi>Spanish</hi> Subiects (which the terse neatnesse of the stile seemes to evince;) nor yet is he of the opinion of <hi>Andrew du Chesne</hi> the great Genealogist and Antiquary of <hi>Europe,</hi> that <hi>Iohn de Placetis</hi> a Poitevin (who in our <hi>Henry</hi> the thirds time, by marriage with the Heir of the Earldom of <hi>Warwick</hi> and the Kings favour, bore that Title here, and planted himself and his posteritie in this Ile) was of the Family of <hi>Plessis,</hi> and so an Ancestor of this great Cardinall, which should incline him any thing the more to that side: but onely in com<g ref="char:EOLhyphen"/>mon humanitie and charitie to the dead, and to shew that he retains his Assent, at least in the malignitie of the precedent <hi>Synopsis,</hi> he hath thought fit to give thee this following Eloge, by way of Antidote, or Contrayerva to the former. And though he desires to appear very cautious in not staling thy iudgement, yet he professes freely his goes along with the later, and thinks too closely to himself, that impartiall posteri<g ref="char:EOLhyphen"/>ty will give the like Vote. Give thou thine, as thou pleasest, I in<g ref="char:EOLhyphen"/>tercede not. So farewell, and read on.</p>
+         </div>
+         <div xml:lang="lat" type="poem">
+            <pb n="8" facs="tcp:159060:6"/>
+            <head>Monumentum Eminentissimi Cardinalis Ducis RICHEL II.</head>
+            <lg>
+               <l>Sta Viator.</l>
+               <l>Mortale quod habuit <hi>Armandus Johannes</hi>
+               </l>
+               <l>
+                  <hi>Plessaeus</hi> Cardinalis Dux <hi>Richelius,</hi>
+               </l>
+               <l>Hîc deposuit.</l>
+            </lg>
+            <lg>
+               <l>Sta, si Gallus es,</l>
+               <l>Ad Armandi Cineres; cujus consiliis stetit Gallia.</l>
+            </lg>
+            <lg>
+               <l>Sta, si Confoederatus es,</l>
+               <l>Ad Cardinalis Monumentum; cujus Cardine</l>
+               <l>Innixa causa Publica stetit.</l>
+            </lg>
+            <lg>
+               <l>Sta, si Hostis es,</l>
+               <l>Ad Ducis <hi>Richelii</hi> Trophaeum; cujus ad nutum.</l>
+               <l>stetit Oceanus.</l>
+            </lg>
+            <lg>
+               <l>Lege.</l>
+               <l>Primum illi beneficium nasci, proximum agnosci,</l>
+               <l>Majoribus ornatus, Majorum ornamentum;</l>
+               <l>Episcopatum dignitate major omnino implevit.</l>
+               <l>Edoctum in Coelo, ad Coelum opera demonstrârunt.</l>
+               <l>Ad Statús Secretariatum erectus est, qui Statum recturus erat,</l>
+               <l>Regenti matri adstitit Regni pater futurus.</l>
+               <l>Volente Rege, cogentibus meritis; sic <hi>Roma</hi> purpuram</l>
+               <l>Concessit:</l>
+            </lg>
+            <lg>
+               <l>Vt dubitare liceat,</l>
+               <l>An plus Eminentiae contulerit purpurae, quam ab ea retulerit.</l>
+               <l>Eminentissimum fecerat prior virtus quam <hi>Roma.</hi>
+               </l>
+               <l>Ad fulgorem purpurae fremuit <hi>Aquila,</hi> rugiit <hi>Leo,</hi>
+               </l>
+               <l>
+                  <hi>Rosa</hi> palluit.</l>
+            </lg>
+            <lg>
+               <l>Nec poterat purpuram fugere,</l>
+               <l>Qui si Martyrûm insignia non tulisset,</l>
+               <l>Hostium sanguine tincta ferre potuit, qui tot abstulit.</l>
+               <l>A Regina, matre recessit cum Regina Voluit esse</l>
+               <l>Non Mater,</l>
+            </lg>
+            <lg>
+               <pb n="10" facs="tcp:159060:7"/>
+               <l>Publicae quietis amator, non fortunae;</l>
+               <l>O dio fuit, quia satis non potuit amari.</l>
+               <l>Nec in Aul<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, nec in Oceani fluctibus fluctuavit.</l>
+               <l>Immotus mansit, cuius ad obsequium commotae sunt * Rupes;</l>
+               <l>Et sub eo, conspiratione Rebellium cedente, respiravit</l>
+               <l>Vndique Religio,</l>
+               <l>Quae sine eo passim exspiratura videbatur.</l>
+               <l>Privatos Hostes, cum voluit, vicit; Regios semper.</l>
+               <l>Sic sibi vacans, ut aliis non videretur intentus,</l>
+               <l>Sic aliis, ut non sibi.</l>
+               <l>Mirabilia fecit totius Orbis miraculum:</l>
+               <l>Fo lix, quod IVSTO Regi placuerit,</l>
+               <l>Foelicior quod ita Regi Regnoque servierit,</l>
+               <l>Vt utrumque servaret.</l>
+               <l>Tandem, profligato <hi>Germano,</hi> coeso <hi>Hispano,</hi>
+               </l>
+               <l>Pacato Regno;</l>
+               <l>Se<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ipso, omnibus majore, victo;</l>
+               <l>Spretis Vmbratilibus Terrae triumphis,</l>
+               <l>Immarcescibilem à Deo Coronam recepturus excessit:</l>
+               <l>Incertum relinquens,</l>
+               <l>An vixerit &amp; rexerit foelicius, an obierit sanctius.</l>
+               <l>Ab invidia planctum extorsit;</l>
+               <l>Et, quo praesentem exercuerat, absentem luxit.</l>
+               <l>Non poterat ultra progredi, summum attigerat.</l>
+               <l>Exuvias mortis Sorbonae dedit, quo vivo</l>
+               <l>Sorbona fuerat animata.</l>
+               <l>In Sorbona quam dilexit, tumulum elegit,</l>
+               <l>Et in sinu ejus jacere voluit,</l>
+               <l>Quam jacentem invenit &amp; erexit.</l>
+               <l>Etiam Sorbonae Genium, si jacuisset, solus erecturus.</l>
+               <l>Debilitatis undi{que} hostibus,</l>
+               <l>Soli Morti cessit, mortis Victor, sui que super stes;</l>
+               <l>Dum in omnium ore animo{que}</l>
+               <l>Vivit.</l>
+            </lg>
+            <p>Ora &amp; vale.</p>
+            <p>Obiit <hi>IV.</hi> Decem. <hi>MDCXLII.</hi> Aetatis <hi>LVII</hi> &amp; <hi>III</hi> mens.</p>
+         </div>
+         <div xml:lang="lat" type="poem">
+            <pb n="12" facs="tcp:159060:8"/>
+            <head>ALIUD.</head>
+            <l>Adsta Viator, quo properas?</l>
+            <l>Quod nusquam videbis, aut audies hîc legitur.</l>
+            <l>Armandus Iohannes du Plessis Cardinalis de Richelieu;</l>
+            <l>Clarus origine, magnus ingenio, fortuna Eminentissimus.</l>
+            <l>Quodque mirere.</l>
+            <l>Sacerdos in Castris, Theologus in Aula, Episcopus sine Plebe,</l>
+            <l>Cardinalis sine Titulo, Rex sine Nomine, Vnus tamen omnia.</l>
+            <l>Naturam habuit in numerato, fortunam in Concilio,</l>
+            <l>Aerarium in peculio, securitatem in bello, victoriam sub Signis,</l>
+            <l>Socios in praecinctu, Cives in servitute,</l>
+            <l>Amicos in obsequio, Inimicos in Carcere;</l>
+            <l>Hoc tamen uno miser, quod omnes miseros fecit.</l>
+            <l>I am seculi tormentum sui, quàm ornamentum.</l>
+            <l>Galliam subeget, Italiam terruit, Germaniam quassavit,</l>
+            <l>Afflixit Hispaniam, coronavit Lusitaniam, cepit Lotharingiam,</l>
+            <l>Accepit Cataloniam, fovit Sueciam, truncavit Flandriam,</l>
+            <l>Turbavit Angliam, lusit Europam.</l>
+            <l>Poc pseudo-Purpuratus;</l>
+            <l>Cui Scena Mundus, gloria Siparium, Regia Gaza Coragium fuit;</l>
+            <l>Tragicus maxime, quam fabulaem male solvit.</l>
+            <l>Post Regnum Testamento suis disiributum, paupertatem populo imperatam,</l>
+            <l>Dissipatos Principes, nobilitatem suppliciis exhaustam,</l>
+            <l>Senatum authoritate spoliatum, exteras Gentes Bello &amp; incendiis vastatas,</l>
+            <l>Pacem terra marique profligatam,</l>
+            <l>Cum fatissce<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>te Corpore, animum gravioribus Consiliis agrè vegetaret,</l>
+            <l>Et nullius non interesset ipsum, aut vivere, aut mori,</l>
+            <l>I am que bona sui parte mortuus, aliorum tantum morteviveret;</l>
+            <l>Derepente spirare desiit &amp; timeri.</l>
+            <l>O fluxa mortalitatis!</l>
+            <l>Quam tenue momentum est inter omnia &amp; nihil?</l>
+            <l>Mortui Corpus Rheda extulit,</l>
+            <l>Secuti equites peditesque magno numero.</l>
+            <l>Faces praetulerunt Ephebi; Crucem nemo, quia currus publicam ferebat.</l>
+            <l>Denique hune Tumulum implet non totum,</l>
+            <l>Quem tota Europa non implevit.</l>
+            <l>Inter Theologos situs, ingens disputandi argumentum.</l>
+            <l>
+               <hi>Fidem</hi> Regi servavit, <hi>Spem</hi> vivis reliquit, <hi>Charitatem</hi> ab Haeredibus ab<g ref="char:EOLhyphen"/>stulit,</l>
+            <l>Quò migravit SACRAMENTVM est.</l>
+            <l>Hoc te, Lector, volui; Hic te metire,</l>
+            <trailer>Et abi.</trailer>
+         </div>
+         <div xml:lang="eng" type="poem">
+            <pb n="9" facs="tcp:159060:6"/>
+            <head>The Monument of the most Eminent Cardinall Duke RICHELIEV.</head>
+            <lg>
+               <l>Stay Passenger.</l>
+               <l>
+                  <hi>Armand Iean du Plessis</hi> Cardinall-Duke of <hi>Richeliu</hi>
+               </l>
+               <l>Whatsoever he had of Mortalitie</l>
+               <l>Hath here deposited.</l>
+            </lg>
+            <lg>
+               <l>Stay, if thou art French,</l>
+               <l>At his Ashes; by whose Counsels <hi>France</hi> stood.</l>
+            </lg>
+            <lg>
+               <l>Stay, if thou art an Allie,</l>
+               <l>At this Cardinals Tomb, on whom, as on the Hinge,</l>
+               <l>the publike Cause mov'd and relyed.</l>
+            </lg>
+            <lg>
+               <l>Stay, if thou art an enemy,</l>
+               <l>At the Trophie of the Duke of <hi>Richelieu,</hi> at whose beck</l>
+               <l>the very Ocean stood.</l>
+               <l>Read.</l>
+            </lg>
+            <lg>
+               <l>His first good was to be born, the next to be known,</l>
+               <l>As he was honourable to his Ancestors, so was he to them an honour.</l>
+               <l>The Episcopacy he answer'd fully, being indeed above the honour.</l>
+               <l>His Writings show him taught from Heaven, his Acts to Heaven.</l>
+               <l>Call'd he was to a Secretariship of State, who was to rule the State.</l>
+               <l>Queen Mother he assisted, who was to be the father of the Kingdom;</l>
+               <l>The King willing, and his merits forcing, <hi>Rome</hi> granted</l>
+               <l>The purple so.</l>
+            </lg>
+            <lg>
+               <l>That it may well be doubted</l>
+               <l>Whether he brought more splendour to it, or it to him.</l>
+               <l>His vertue made him much more eminent then <hi>Rome.</hi>
+               </l>
+               <l>At the glory of this purple the <hi>Eagle</hi> rages, the <hi>Lion</hi> roars,</l>
+               <l>And the <hi>Rose</hi> is wanne.</l>
+            </lg>
+            <lg>
+               <l>Nor could he scape the purple,</l>
+               <l>Which had he not worn as the Ensigne of the Martyrs,</l>
+               <l>Yet might he wel, as having gain'd so many Trophies died in the bloods of the ene<g ref="char:EOLhyphen"/>mies.</l>
+               <l>He withdrew himself from Queen-mother, when she sought to be</l>
+               <l>A Queen rather then a Mother.</l>
+            </lg>
+            <lg>
+               <pb n="11" facs="tcp:159060:7"/>
+               <l>A lover of the publique peace, rather then of Fortune:</l>
+               <l>Hated he was, because he could not be belov'd enough.</l>
+               <l>Nor did he ever waver in the waves either of Court or Ocean.</l>
+               <l>Immoveable stood he, at whose pleasure the very<note n="*" place="margin">An allusion to his taking of <hi>Rochell,</hi> in Latine suffici<g ref="char:EOLhyphen"/>ently pointed at, in our Tongue inex<g ref="char:EOLhyphen"/>pressible.</note> Rocks were shaken,</l>
+               <l>And under him all conspiracie of Rebels giving way, Religion began</l>
+               <l>On all sides to take breath,</l>
+               <l>Which without him was likely to give up the last breath.</l>
+               <l>His private enemies he overcame when he pleas'd, the Kings ever;</l>
+               <l>Giving himself so much to himself, as if not intent at all to others,</l>
+               <l>And so much to others, as if not at all to himself.</l>
+               <l>This Miracle of the world did Miracles,</l>
+               <l>Happy in pleasing <hi>Lewes</hi> the IVST,</l>
+               <l>More happy in serving so both King and Kingdom,</l>
+               <l>As withall to preserve both.</l>
+               <l>At last the German profligated, the Spanyard beaten,</l>
+               <l>The Kingdom quieted,</l>
+               <l>And himself, greater then all, overcome;</l>
+               <l>And all the Umbratile triumphs of the World slighted,</l>
+               <l>He went away to receive of God an immarcescible Crown:</l>
+               <l>Leaving it uncertain,</l>
+               <l>Whether he liv'd and rul'd more happily, or died more religiously.</l>
+               <l>From Envie her self he extorted complaints</l>
+               <l>Bemoaning him now absent with what she had oft exercis'd him pre<g ref="char:EOLhyphen"/>sent.</l>
+               <l>A greater progresse could he not arrive to, having attain'd the utmost.</l>
+               <l>The spoils of his mortalitie to the Sorbone he bequeath'd,</l>
+               <l>Which in his life was animated.</l>
+               <l>In his beloved Sorbone he chose his Tombe,</l>
+               <l>And in it's bosom would he lie,</l>
+               <l>Which lying he found and raised,</l>
+               <l>And so would he alone, the very Genius of the Sorbone, had he found it so lying.</l>
+               <l>The enemies on all sides weakned,</l>
+               <l>To Death only he gave way, a Conqueror though of death, &amp; out-living himself</l>
+               <l>By living still in the mouths and minds of all men.</l>
+            </lg>
+            <p>Pray and farewell.</p>
+            <p>He died the iv of December, 1642 in the 57th yeare and 3d moneth of his age.</p>
+         </div>
+         <div xml:lang="eng" type="poem">
+            <pb n="13" facs="tcp:159060:8"/>
+            <head>ANOTHER.</head>
+            <l>Stay Passenger, whither hasts thou?</l>
+            <l>Here maist thou read what thou shalt no where see, or hear.</l>
+            <l>
+               <hi>Armand Iean</hi> of <hi>Plessis</hi> Cardinall of <hi>Richelieu,</hi>
+            </l>
+            <l>Famous in's anceftrie, great in's wit, most eminent in's fortune,</l>
+            <l>And, what thou maist admire!</l>
+            <l>A Priest in the Field, a Divine in Court, a Bishop without Cure,</l>
+            <l>A Cardinall without Title, a King without name, one indeed that was all.</l>
+            <l>He had Nature at's Fingers ends, fortune at the Councell-Talbe</l>
+            <l>The Chequer in's propriety, securitie in war, victorie in's power,</l>
+            <l>The Confoederates in a readinesse, the whole Countrie in servitude,</l>
+            <l>His Friends at's beck, his enemies in prison;</l>
+            <l>In this onely miserable, that he made all men so.</l>
+            <l>Being as well the torment, as the ornament of his age.</l>
+            <l>France he subdu'd, Italie he terrified, Germanie he shook,</l>
+            <l>Spain he afflicted, Portugall he crowned, Lorraine he took,</l>
+            <l>Catalonia he recev'd, Swethland he foster'd, Flanders he mangled,</l>
+            <l>England he troubled, Europe he beguil'd.</l>
+            <l>This Pseudo-Cardinall,</l>
+            <l>The world was his Theater, glorie his Scene, the Chequer his furniture.</l>
+            <l>Tragicall most anend was he, which part he ended ill too.</l>
+            <l>After the whole Kingdom shar'd out by his Will, povertie enjoyned the people,</l>
+            <l>The Princes dissipated, the Nobilitie exhausted with punishments,</l>
+            <l>The Parliament debouted of all Power, forraigne Nations destroy'd with fire and sword,</l>
+            <l>Peace by Sea and Land proffligated,</l>
+            <l>His Bodie tyr'd, his minde nothing recreated with those troublesome Counsels, sword,</l>
+            <l>When it concern'd all men, that he should live or die,</l>
+            <l>Being now dead for the most part, and living onely in the death of others,</l>
+            <l>Suddenly he ceas'd to breath, and to be feared.</l>
+            <l>O the frailtie of mortalitie!</l>
+            <l>What a small distance 'twixt all things and nothing!</l>
+            <l>The dead corps was conveigh'd in a Chariot,</l>
+            <l>Horse and foot following in great numbers.</l>
+            <l>The Pages carried the Torches afore; the Crosse no man, for why the Chariot car<g ref="char:EOLhyphen"/>ried the publike crosse.</l>
+            <l>This whole Tombe he hardly fill'd up,</l>
+            <l>Whom whilome all Europe had not fill'd.</l>
+            <l>This great argument of dispute lies now buried amongst the Sorbonists.</l>
+            <l>His <hi>Faith</hi> he kept to the King, <hi>Hope</hi> he left to the living, <hi>Charity</hi> he took from his Heirs;</l>
+            <l>Whither he went, that's a MYSTERIE.</l>
+            <l>This is, Reader, what I would with thee; here measure thy selfe.</l>
+            <l>and begon.</l>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
